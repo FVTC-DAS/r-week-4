@@ -16,4 +16,4 @@
 > **Data:** This assignment expects `data/nc.csv` (same file from last week).
 
 ## Submission
-Push your completed script to GitHub.
+Push your completed script to GitHub and submit the link to your GitHub repository in Blackboard.
